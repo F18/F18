@@ -4,20 +4,20 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=F18.F18">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=300&color=7F9F7F&random=false&width=435&lines=Welcome+to+F18's+GitHub!;You're+too+close+for+missiles%2C;I'm+switching+to+guns" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&width=600&duration=3000&pause=300&color=7F9F7F&random=false&width=700&lines=Welcome+to+F18's+GitHub!;You're+too+close+for+missiles;I'm+switching+to+guns" alt="Typing SVG" /></a>
 
 ## About the Author
-Thanks for visiting! My name is **Ramy Rashad** _(Ramy pronounced like Tommy)_.
+Hello and welcome! My name is **Ramy Rashad** _(Ramy pronounced like Tommy)_.
 
-Growing up, I was obsessed with the space shuttle program 🚀 and airplanes ✈️. I am now a professional aerospace and staff software engineer. Through my doctoral research, I gained expertise in the areas of (i) numerical optimization techniques and (ii) computational aerodynamics. Throug more than a decade of industry experience I have been in the continous pursuit to democratize and bridge-the-gap between machine learning, optimization and traditional scientific computing.
+Growing up, I was obsessed with the space shuttle program 🚀 and airplanes ✈️. Naturally, I became a professional aerospace and staff software engineer. Through my doctoral research, I gained expertise in the fields of (i) numerical optimization and (ii) computational aerodynamics. Through more than a decade of industry experience, I have strived to democratize and bridge-the-gap between machine learning, optimization, and traditional scientific computing.
 
-I live in Canada and currently work for [Pratt \& Whitney](https://www.prattwhitney.com/), focused on ML-driven design optimization frameworks for advanced propulsion technologies, involving multidisciplinary physics-based models.
+I live in Canada and currently work for [Pratt \& Whitney](https://www.prattwhitney.com/). My work is focused on ML-driven design optimization frameworks for advanced propulsion systems, typically involving multidisciplinary physics-based modelling.
 
 In my spare time, I enjoy Brazilian Jiu Jitsu, flying Cessnas, and jumping out of them! 😃
 
 Please feel free to connect with me anytime. 🚀 <!-- You can also check out my resume, made using Latex. -->
 
-## :handshake: Connect with me!
+## :handshake: How to connect with me
 
 <div align=left>
   <a href="https://www.linkedin.com/in/rashadramy/">
