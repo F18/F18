@@ -11,7 +11,7 @@ Hello and welcome! My name is **Ramy Rashad** _(Ramy pronounced like Tommy)_.
 
 Growing up, I was obsessed with the space shuttle program 🚀 and airplanes ✈️. Naturally, I became a professional aerospace and staff software engineer. Through my doctoral research, I gained expertise in the fields of (i) numerical optimization and (ii) computational aerodynamics. Through more than a decade of industry experience, I have strived to democratize and bridge-the-gap between machine learning, optimization, and traditional scientific computing.
 
-I live in Canada and currently work for [Pratt \& Whitney](https://www.prattwhitney.com/). My work is focused on ML-driven design optimization frameworks for advanced propulsion systems, typically involving multidisciplinary physics-based modelling.
+I currently work for [Pratt \& Whitney Canada](https://www.prattwhitney.com/), in the the Toronto area. My work is focused on ML-driven design optimization frameworks for advanced propulsion systems, typically involving multidisciplinary physics-based modelling.
 
 In my spare time, I enjoy Brazilian Jiu Jitsu, flying Cessnas, and jumping out of them! 😃
 
