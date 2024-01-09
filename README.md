@@ -7,15 +7,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&width=600&duration=3000&pause=300&color=7F9F7F&random=false&width=700&lines=Welcome+to+F18's+GitHub!;You're+too+close+for+missiles;I'm+switching+to+guns" alt="Typing SVG" /></a>
 
 ## About the Author
-Hello and welcome! My name is **Ramy Rashad** _(Ramy pronounced like Tommy)_.
+Hello and welcome to my landing page! My name is **Ramy Rashad**.
 
-Growing up, I was obsessed with the space shuttle program 🚀 and airplanes ✈️. Naturally, I became a professional aerospace and staff software engineer. Through my doctoral research, I gained expertise in the fields of (i) numerical optimization and (ii) computational aerodynamics. Through more than a decade of industry experience, I have strived to democratize and bridge-the-gap between machine learning, optimization, and traditional scientific computing.
+Growing up, I was obsessed with airplanes ✈️ and NASA's space shuttle program 🚀. I naturally became a professional aerospace and staff software engineer. Through my doctoral research, I gained expertise in the areas of (i) numerical optimization and (ii) computational aerodynamics. Through more than a decade of industry experience, I have strived to democratize and bridge-the-gap between machine learning, optimization, and traditional scientific computing.
 
 I currently work for [Pratt \& Whitney Canada](https://www.prattwhitney.com/), in the the Toronto area. My work is focused on ML-driven design optimization frameworks for advanced propulsion systems, typically involving multidisciplinary physics-based modelling.
 
 In my spare time, I enjoy Brazilian Jiu Jitsu, flying Cessnas, and jumping out of them! 😃
 
-Please feel free to connect with me anytime. 🚀 <!-- You can also check out my resume, made using Latex. -->
+Please feel free to connect with me anytime! 🚀 <!-- You can also check out my resume, made using Latex. -->
 
 ## :handshake: How to connect with me
 
