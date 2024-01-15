@@ -4,10 +4,10 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=F18.F18">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30duration=3000&pause=300&color=7F9F7F&random=false&width=800&lines=Welcome+to+F18's+Landing Page!;Talk+to+me,+Goose;No,+Mav,+this+is+not+a+good+idea;Sorry,+Goose,+but+it's+time+to+buzz+the+tower;Goodness+gracious,+great+balls+of+fire!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&width=600&duration=3000&pause=300&color=7F9F7F&random=false&width=900&lines=Welcome+to+F18%27s+Landing%20Page;Talk+to+me,+Goose;No,+Mav,+this+is+not+a+good+idea;Sorry,+Goose,+but+it%27s+time+to+buzz+the+tower;Goodness+gracious,+great+balls+of+fire!" alt="Typing SVG" /></a>
 
 ## About the Author
-Hello and welcome to my landing page! My name is **Ramy Rashad**.
+Hello and welcome to my landing page - my name is **Ramy Rashad**.
 
 Growing up, I was obsessed with airplanes ✈️ and NASA's space shuttle program 🚀. I naturally became a professional aerospace and staff software engineer. Through my doctoral research, I gained expertise in the areas of (i) numerical optimization and (ii) computational aerodynamics. Through more than a decade of industry experience, I have strived to democratize and bridge-the-gap between machine learning, optimization, and traditional scientific computing.
 
