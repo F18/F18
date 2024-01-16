@@ -4,7 +4,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=F18.F18">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&width=600&duration=3000&pause=300&color=7F9F7F&random=false&width=900&lines=Welcome+to+F18%27s+Landing%20Page;Talk+to+me,+Goose;No,+Mav,+this+is+not+a+good+idea;Sorry,+Goose,+but+it%27s+time+to+buzz+the+tower;Goodness+gracious,+great+balls+of+fire!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&width=600&duration=3000&pause=300&color=7F9F7F&repeat=false&random=false&width=900&lines=Welcome+to+F18%27s+landing%20page;Talk+to+me,+Goose;No,+Mav,+this+is+not+a+good+idea;Sorry,+Goose,+but+it%27s+time+to+buzz+the+tower;Goodness+gracious,+great+balls+of+fire!" alt="Typing SVG" /></a>
 
 ## About the Author
 Hello and welcome to my landing page - my name is **Ramy Rashad**.
@@ -63,6 +63,10 @@ Please feel free to connect with me anytime! 🚀 <!-- You can also check out my
 <!--
 
 ## ⚡ GitHub statistics
+
+https://git-readme-stats-dw6d.vercel.app/api/top-langs/?username=F18&hide=emacs lisp,c,vim scrip,postscript,perl&langs_count=5&size_weight=0.5&count_weight=0.5
+
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=F18&theme=react&border=61dafb&hide_border=true)
 ![Stats](https://github-readme-stats.vercel.app/api?username=F18&theme=react&show_icons=true)](https://github.com/F18)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=F18&hide=emacs&exclude_repo=dotfiles&theme=react&show_icons=true)
