@@ -13,7 +13,7 @@ Growing up, I was obsessed with airplanes ✈️ and NASA's space shuttle progra
 
 I currently work for [Pratt \& Whitney Canada](https://www.prattwhitney.com/), in the the Toronto area. My work is focused on ML-driven design optimization frameworks for advanced propulsion systems, typically involving multidisciplinary physics-based modelling.
 
-In my spare time, I enjoy Brazilian Jiu Jitsu, flying Cessnas, and jumping out of them! 😃
+In my spare time, I enjoy Brazilian Jiu Jitsu, flying Cessnas, and jumping out of them! 🪂
 
 Please feel free to connect with me anytime! 🚀 <!-- You can also check out my resume, made using Latex. -->
 
