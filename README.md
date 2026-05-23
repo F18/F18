@@ -4,14 +4,14 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=F18.F18">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&width=600&duration=3000&pause=300&color=7F9F7F&repeat=false&random=false&width=900&lines=Talk+to+me,+Goose;No,+Mav,+this+is+not+a+good+idea;Sorry,+Goose,+but+it%27s+time+to+buzz+the+tower;Goodness+gracious,+great+balls+of+fire!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&width=600&duration=3000&pause=300&color=7F9F7F&repeat=false&random=false&width=900&lines=Talk+to+me,+Goose;No,+Mav,+this+is+not+a+good+idea;Sorry,+Goose,+but+it%27s+time+to+buzz+the+tower!" alt="Typing SVG" /></a>
 
 ## About the Author
 Hello and welcome to my landing page - my name is **Ramy Rashad**.
 
-As a kid, I was obsessed with airplanes and NASA's space shuttle program. I would go plane-spotting at local airports with my dad and in university I would have live feeds of NASA's mission coverage playing in the background while I studied. I somehow studied hard enough to become a professional aerospace and staff software engineer - a nerdy rocket scientist through and through! My doctoral research gave me the time I needed to go deep, in turn, gaining significant expertise in the areas of (i) numerical optimization and (ii) computational aerodynamics. 
+As a kid, I was obsessed with airplanes and NASA's space shuttle program. I somehow **P**iled it **h**igh enough and **D**eep enough (Ph.D.) to become a professional aerospace engineer and principal software engineer. My doctoral research gave me the time I needed to go down some deep rabit holes, in turn, gaining significant expertise in the areas of (i) numerical optimization and (ii) computational aerodynamics. 
 
-Through more than a decade of industry experience that has since followed, I have consistently focused on democratizing machine learning, numerical optimization, and traditional scientific computing. I am always looking for opportunities to push the boundaries, mostly by bridging the gap between cutting-edge academic research and industrially relevant applications.
+Through more than a dozen years of industry experience that has since followed, I have consistently focused on democratizing machine learning, numerical optimization, and traditional scientific computing. I am always looking for opportunities to push the boundaries, mostly by bridging the gap between cutting-edge academic research and industrially relevant applications.
 
 I currently work for [Pratt \& Whitney Canada](https://www.prattwhitney.com/), in the the Toronto area. My work is currently focused on building out ML-driven design optimization frameworks for advanced propulsion systems, typically involving multidisciplinary physics-based modelling (CFD and FEA), model calibration, and controls optimization for embedded systems.
 
