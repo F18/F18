@@ -7,17 +7,19 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&width=600&duration=3000&pause=300&color=7F9F7F&repeat=false&random=false&width=900&lines=Talk+to+me,+Goose;No,+Mav,+this+is+not+a+good+idea;Sorry,+Goose,+but+it%27s+time+to+buzz+the+tower!" alt="Typing SVG" /></a>
 
 ## About the Author
-Hello and welcome to my landing page - my name is **Ramy Rashad**.
 
-For as long as I can remember I have been intrinsically fascinated by the magic of flight, the beauty of airplanes, and the power of propulsion. Over time, I somehow managed to **P**ile it **h**igh enough and **D**eep enough to earn a PhD and become a professional aerospace and principal software engineer. My doctoral research gave me the time I needed to gain a breadth and depth of knowledge in the areas of numerical optimization and computational aerodynamics.
+Hello and welcome to my landing page! My name is Ramy Rashad.
 
-Through more than a dozen years of industry experience that have followed my graduate research, I have transitioned toward an expertise in Machine Learning (ML) and, more specifically, Scientific ML (SciML). My mission objective is to help democratize and leverage the use of SciML to the maximum extent possible in industry. I believe a significant effort is required to reliabily and responsibly bridge the gap between cutting-edge academic research in AI/ML and industrially relevant applications in engineering. I am always looking for new opportunities to push the boundaries!
+For as long as I can remember, I have been intrinsically fascinated by the magic of flight, the beauty of airplanes, and the power of propulsion. Over time, I somehow managed to **P**ile it **h**igh enough and **D**eep enough to earn a PhD. My doctoral research gave me the time I needed to gain a breadth and depth of knowledge in the areas of numerical optimization and computational aerodynamics. I am now a professional aerospace engineer and principal software engineer working in the Canadian aerospace industry. 
 
-I currently work for [Pratt \& Whitney Canada](https://www.prattwhitney.com/), in the the Toronto area. My work is currently focused on building out ML-driven design optimization frameworks for advanced propulsion systems, typically involving multidisciplinary physics-based modelling (aerodynamics, structures, and dynamics), automatic model calibration, and controls verficiation for embedded systems.
+Through more than a dozen years of industry experience, I have transitioned toward an expertise in Machine Learning (ML) and, more specifically, Scientific ML (SciML). My mission objective is to help democratize and leverage SciML to the maximum extent possible in industry. I believe a significant effort is required to reliably and responsibly bridge the gap between cutting-edge academic research in AI/ML and industrially relevant applications in engineering. I am always looking for new opportunities to push the boundaries!
 
-In my spare time, I enjoy Brazilian Jiu Jitsu, flying Cessnas, and jumping out of them! 🪂
+I currently work for [Pratt \& Whitney Canada](https://www.prattwhitney.com/), in the Toronto area. My work is currently focused on building out ML-driven design optimization frameworks for advanced propulsion systems, typically involving multidisciplinary physics-based modelling (aerodynamics, structures, and dynamics), automatic model calibration, and controls verification for embedded systems.
 
-Please feel free to connect with me anytime! 🚀 <!-- You can also check out my resume, made using Latex. -->
+In my spare time, I enjoy Brazilian Jiu-Jitsu, flying Cessnas, and jumping out of them! 🪂
+
+Please feel free to connect with me anytime! 🚀
+
 
 ## :handshake: How to connect with me
 
