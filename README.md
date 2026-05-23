@@ -9,7 +9,7 @@
 ## About the Author
 Hello and welcome to my landing page - my name is **Ramy Rashad**.
 
-I have always been naturally fascinated by the magic of flight, the beauty of airplanes, and the power of rockets and jet engines. Over time, I somehow **P**iled it **h**igh enough and **D**eep enough to earn a PhD and become a professional aerospace engineer and principal software engineer. My doctoral research gave me the time I needed to go down some deep rabit holes, in turn, gaining significant expertise in the areas of (i) numerical optimization and (ii) computational aerodynamics.  both of which have helped transition toward Scientific Machine learning (SciML).  
+I have always been naturally fascinated by the magic of flight, the beauty of airplanes, and the power of rockets and jet engines. Over time, I somehow **P**iled it **h**igh enough and **D**eep enough to earn a PhD and become a professional aerospace engineer and principal software engineer. My doctoral research gave me the time I needed to go down some deep rabit holes, in turn, gaining significant expertise in the areas of (i) numerical optimization and (ii) computational aerodynamics.
 
 Through more than a dozen years of industry experience that have followed my graduate studies, I have since transitioned toward Machine Learning (ML) and, more specifically, scientific ML. My primary mission objective is to help democratize and leverage the use of SciML to the maximum extent possible in industry. I believe a significant effort is required to reliabily and responsibly bridge the gap between cutting-edge academic research in AI/ML and industrially relevant applications in engineering. I am always looking for new opportunities to push the boundaries!
 
