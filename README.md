@@ -9,9 +9,9 @@
 ## About the Author
 Hello and welcome to my landing page - my name is **Ramy Rashad**.
 
-As a kid, I was obsessed with airplanes and NASA's space shuttle program. I somehow **P**iled it **h**igh enough and **D**eep enough (Ph.D.) to become a professional aerospace engineer and principal software engineer. My doctoral research gave me the time I needed to go down some deep rabit holes, in turn, gaining significant expertise in the areas of (i) numerical optimization and (ii) computational aerodynamics. 
+I have always been naturally fascinated by the magic of flight, the beauty of airplanes, and the power of rockets and jet engines. Over time, I somehow **P**iled it **h**igh enough and **D**eep enough to earn a PhD and become a professional aerospace engineer and principal software engineer. My doctoral research gave me the time I needed to go down some deep rabit holes, in turn, gaining significant expertise in the areas of (i) numerical optimization and (ii) computational aerodynamics, both of which have helped transition toward Scientific Machine learning (SciML).  
 
-Through more than a dozen years of industry experience that has since followed, I have consistently focused on democratizing machine learning, numerical optimization, and traditional scientific computing. I am always looking for opportunities to push the boundaries, mostly by bridging the gap between cutting-edge academic research and industrially relevant applications.
+Through more than a dozen years of industry experience that followed my graduate studies, I have consistently focused on democratizing machine learning to as many engineers as possible and, more specifically, combining the world of machine learning with traditional scientific computing. I am always looking for opportunities to push the boundaries, mostly by bridging the gap between cutting-edge academic research and industrially relevant applications in engineering and beyond.
 
 I currently work for [Pratt \& Whitney Canada](https://www.prattwhitney.com/), in the the Toronto area. My work is currently focused on building out ML-driven design optimization frameworks for advanced propulsion systems, typically involving multidisciplinary physics-based modelling (CFD and FEA), model calibration, and controls optimization for embedded systems.
 
